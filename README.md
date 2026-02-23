@@ -6,6 +6,7 @@
 | --------------------- | ------------------------------------- |
 | :sparkles: Nome       | **Incrementing Counter**          |
 | :label: Tecnologias   | html, css, javascript                 |
+| :rocket: URL          | https://increasecounter.netlify.app/ |
 
 
 ## About
